@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://marketplace.canva.com/EAFXXTFlS_w/4/0/1600w/canva-dark-green-minimalist-inspirational-quote-linkedin-banner-dEC-LvyWrqQ.jpg"  />
-</div>
-
-###
-
 <h1 align="left">👋 Hi, I'm Abhishek Kumar!</h1>
 
 ###
