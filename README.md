@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🎓 Final Year Student at Jain University | 💻 Aspiring Full-Stack Developer | 🛠️ Tech Enthusiast</h2>
+<h2 align="left">🛡️ Product Security Intern at HighRadius | 🔐 Aspiring Penetration Tester | 🛠️ Cybersecurity Professional</h2>
 
 ###
 
@@ -10,7 +10,11 @@
 
 ###
 
-<h3 align="left">🌟 Passionate about software development, cybersecurity, and problem-solving.<br>🔍 Exploring innovative tech solutions through projects and startups.<br>🌱 Currently learning React, Tailwind CSS, and improving frontend skills.<br>🛡️ Certified in ethical hacking and diving deeper into cybersecurity challenges.</h3>
+<h2 align="left">
+🎓 BCA Graduate from Jain University <br>
+🛡️ Product Security Intern at HighRadius <br>
+🔐 Aspiring Penetration Tester & Cybersecurity Professional
+</h2>
 
 ###
 
